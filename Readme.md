@@ -1,10 +1,9 @@
 about nitro generator: fast 
-19% to get a valid code
 
 
 hello thanks for using this generator if u need any help join my discord server
 
-<a href= "https://discord.gg/BGgKbDCysk">discord server</a>
+<a href= "https://discord.gg/j34tyqdg3S">discord server</a>
 
 creators: <strong><p>slicybtw</p></strong>
 
@@ -18,9 +17,8 @@ pkg install python
 
 pkg install git 
 
-git clone https://github.com/slicybt3w/Nitro-generator-checker-by-slicybtw
 
-cd Nitro generator & checker by slicybtw
+cd Nitro generator & checker by supreme-#5460
 
 pip install discord 
 
@@ -29,3 +27,4 @@ pip install flask
 python main.py 
 then done✅
 </p></strong>
+NOT MY GENERATOR
